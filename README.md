@@ -1,7 +1,7 @@
 # Spring
 
-###AOP
-####(Aspect Oriented Programming)
+### AOP
+#### (Aspect Oriented Programming)
 
 ## 용어 설명
 
